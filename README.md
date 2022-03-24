@@ -10,7 +10,7 @@
 
 ## Installation <a name="installation"></a>
 
-There are some neccessary library nees to install such as: numpy, pandas, matplolib, seaborn.  The code should run with no issues using Python versions 3.*.
+There are some neccessary library nees to install such as: numpy, pandas, matplolib, seaborn, wordcloud.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -23,11 +23,10 @@ For this project, I was interestested in using Seattle Airbnb Dataste in Kaggle 
 5. What is the important factors for guests in choosing accommodations
 
 
-
-
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks available here to showcase work related to the above questions.  It will explore searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+- There are 1 notebooks available here to showcase work related to the above questions.  It will explore searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps. 
+- 03 dataset: listing.csv, calendar.csv & reviews.csv 
 
 
 ## Results<a name="results"></a>
